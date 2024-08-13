@@ -1,4 +1,4 @@
-# auction-management-service
+# Auction-management-service
 
 A full-fledged auction management solution enables users to list various products for auction and allows bidders to place bids on these items. Win notifications are sent to winners at the end of Auction. Consists of below Micro-services
 
